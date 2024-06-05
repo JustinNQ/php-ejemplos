@@ -21,8 +21,8 @@ function calcular($operador,$numero1,$numero2) {
         return $numero1/$numero2;
 }
 
- echo obtenerSaludo("nicky")."\n";
- echo mostrarDatos("nicky","enriquez",
+ echo obtenerSaludo("justin")."\n";
+ echo mostrarDatos("justin","nina",
  "backend developer web","tercer semestre")."\n";
  echo "El total de la suma es : ".calcular("+",10,34);
 
